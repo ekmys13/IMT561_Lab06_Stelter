@@ -1,0 +1,21 @@
+Folder: src - short for "Source"
+- Create this file to put your python scripts for streamlit in there
+
+Python files to go in the src folder ("source code"):
+- charts.py --> where you have visualization functions
+- data.py --> where you're reading in & transforming your data (after cleaning & preprocessing, sounds like)
+- filters.py --> rendering & sticking visualizations into the dashboard
+
+General Takeaways:
+- You're building & testing graphs in the Jupyter notebook before creating the Python scripts
+- Seems like a good idea to have honestly an entirely separate notebook for data cleaning and preprocessing
+- And then you can save to updated csv files and create a new notebook for visualization building
+
+Questions about Streamlit:
+- How do you make multiple views of a dataset? Like how do you create a toggle filter for stuff?
+---> Sounds like this is in filters.py
+
+Streamlit documentation
+- Just read through layout documentation & where you can actually put stuff
+-
+
