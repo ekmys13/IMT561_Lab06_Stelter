@@ -18,5 +18,5 @@ streamlit run app.py
 
 ## Submission (for students)
 - Streamlit deployed link: 
-- GitHub repo link: 
+- GitHub repo link: https://github.com/ekmys13/IMT561_Lab06_Stelter
 - Short README describing audience + tasks: 
