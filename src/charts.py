@@ -38,7 +38,7 @@ def plot_borough_bar(df: pd.DataFrame) -> None:
     )
     st.plotly_chart(fig, use_container_width=True)
 
-def plot_borough_bar1 (df: pd.Dataframe) -> None:
+def plot_borough_bar1 (df: pd.DataFrame) -> None:
     """Plotting number of complaints by borough."""
     if df.empty:
         st.info("No rows match your filters.")
