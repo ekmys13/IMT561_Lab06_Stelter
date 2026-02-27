@@ -53,7 +53,7 @@ def plot_borough_bar1 (df: pd.DataFrame) -> None:
     fig
 
 # bar chart: Response Time by Complaint Type
-def plot_complaint_bar(df:pd.Dataframe) -> None:
+def plot_complaint_bar(df:pd.DataFrame) -> None:
     """Plotting median response time by complaint type."""
     if df.empty:
         st.info("No rows match your filters.")
