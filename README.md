@@ -17,6 +17,6 @@ streamlit run app.py
 - Add metrics and additional views as an extension
 
 ## Submission (for students)
-- Streamlit deployed link: 
+- Streamlit deployed link: https://imt561lab06stelter-v8yswbgjxd3zbm2dulbbum.streamlit.app/
 - GitHub repo link: https://github.com/ekmys13/IMT561_Lab06_Stelter
 - Short README describing audience + tasks: 
